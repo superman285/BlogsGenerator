@@ -19,9 +19,10 @@ menu:
   时光机: /archives
   标签: /tags
   分类: /categories
-  BlockChain: /blockchain
-  娱乐: /play
-  About: /about
+  区块链: /categories/BlockChain
+  娱乐: /categories/Entertain
+  作品集: /Works
+  # 关于我: /about
   
 
 # Favicon
@@ -93,7 +94,7 @@ fireworks: true
 
 # Analysis
 # ---------------
-baidu_analytics:
+baidu_analytics: 6f95f9792a34045b9d58c63113e1af8d
 
 google_analytics:
 

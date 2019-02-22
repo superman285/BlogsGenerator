@@ -272,7 +272,7 @@ links:
 # Follow Me Button
 follow:
   enable: true
-  url: 'https://github.com/superman285e'
+  url: 'https://github.com/superman285'
   text: 'Git Me Follow'
 
 # Ads

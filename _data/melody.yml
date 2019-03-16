@@ -241,8 +241,8 @@ since: 2018
 # footer_custom_text:
 
 ICP:
-  enable: false
-  #text:
+  enable: true
+  text: 粤ICP备19022229号-1
 
 # busuanzi count for PV / UV in site
 busuanzi:
@@ -265,8 +265,9 @@ busuanzi:
 # ---------------
 links_title: FriendLinks
 links:
-  ETH-Notes: http://skrmemo.top:3000
+  ETH-Notes: http://skrmemo.top:4001/
   Beauty Hexo-Theme: https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans
+  一个清新脱俗的前端: https://minimalwang.xyz
 #Name: url
 
 # Follow Me Button

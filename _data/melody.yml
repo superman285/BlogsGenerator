@@ -242,7 +242,8 @@ since: 2018
 
 ICP:
   enable: true
-  text: 粤ICP备19022229号-1
+  text: 粤ICP备19022229号
+  url: http://www.miitbeian.gov.cn
 
 # busuanzi count for PV / UV in site
 busuanzi:
@@ -265,7 +266,10 @@ busuanzi:
 # ---------------
 links_title: FriendLinks
 links:
-  ETH-Notes: http://skrmemo.top:4001/
+  TicTacToe: http://skrgame.fun
+  SkrWallet: http://superskr.top
+  KoaNotes: http://superskr.fun
+  ETH-SkrNote: http://skrnote.top
   Beauty Hexo-Theme: https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans
   一个清新脱俗的前端: https://minimalwang.xyz
 #Name: url

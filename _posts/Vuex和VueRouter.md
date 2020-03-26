@@ -43,6 +43,16 @@ router-view : 相当于占位符,用于展示与当前url匹配的组件内容(r
 
 
 
+总是忘记 router-view怎么运作，记清楚了!! 浏览器url <=> router.js匹配关系
+
+router-view就 表示 在浏览器url中的路径 匹配到的显示内容 对应关系在router.js中看
+
+默认是/  那就对应的router.js中的 / 路径对应的component
+
+如果是/about 就对应router.js中的 /about对应的component
+
+
+
 router-link : 会被渲染成a标签，但是会增加click事件，阻止默认行为(跳转和发请求)，
 
 根据hash模式或history模式进行不同处理；

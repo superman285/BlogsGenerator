@@ -30,6 +30,8 @@ Canvas画板: <a href="https://www.highskr.cn/WebFrontEnd-Project/Canvas-Demo">�
 
 Vuetify简历: <a href="https://www.highskr.cn/PrivateOwnWebProject/AdvancedJS/VueFamily/VueResumer/dist">预览链接</a>
 
+Vue日事清SktTodo: <a href="https://www.highskr.cn/SkrTodo/dist">预览链接</a>
+
 
 
 ### 全栈

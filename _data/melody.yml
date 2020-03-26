@@ -244,6 +244,8 @@ ICP:
   enable: true
   text: 粤ICP备19022229号
   url: http://www.miitbeian.gov.cn
+  text2: 京公网安备11010502037612号
+  url2: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502037612
 
 # busuanzi count for PV / UV in site
 busuanzi:

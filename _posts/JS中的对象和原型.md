@@ -535,6 +535,12 @@ var后的为对象，new后面的为函数对象
 
 
 
+class A extends B{}
+
+A.prototype.\__proto__ == B.prototype    「A的原型由B构造而来」
+
+
+
  <font style="color:white;background:mediumseagreen;padding:3px 6px;font-weight:bold;line-height:2">特殊的Function</font>
 
 Fuction的构造函数也是Function，
